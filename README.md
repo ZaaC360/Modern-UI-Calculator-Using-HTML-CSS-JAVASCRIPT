@@ -1,6 +1,5 @@
 # Modern-UI-Calculator-Using-HTML-CSS-JAVASCRIPT
 # A modern JavaScript calculator with animated button interactions, theme switching, and calculation history panel.
-# Animated Calculator
 
 A modern and interactive calculator built using **HTML, CSS, and JavaScript**.  
 This project focuses on DOM manipulation, UI animations, and dynamic user interaction.
