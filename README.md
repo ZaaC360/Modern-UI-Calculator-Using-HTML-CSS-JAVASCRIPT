@@ -4,6 +4,9 @@
 A modern and interactive calculator built using **HTML, CSS, and JavaScript**.  
 This project focuses on DOM manipulation, UI animations, and dynamic user interaction.
 
+# Live Demo:
+https://zaac360.github.io/Modern-UI-Calculator-Using-HTML-CSS-JAVASCRIPT/
+
 # Features
 
 - Basic arithmetic operations
