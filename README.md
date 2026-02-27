@@ -35,7 +35,8 @@ This project helped practice:
 
 # Preview
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b1578b5-ce2e-4dd0-a71f-f43c87996c4d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93dbed9b-a1ab-48c3-a5b2-cf670415464c" />
+<img width="1920" height="892" alt="image" src="https://github.com/user-attachments/assets/619f4789-0a0b-43c1-989d-b6734f81e9ec" />
+
 
 
 
